@@ -1,6 +1,6 @@
 # WebToApp
 
-Turn any website into a lightweight Windows app (Pake-style).
+Turn any website into a lightweight Windows app.
 Enter a URL -> click **Build** -> get a standalone `.exe` that opens the site in its own window.
 
 ## Requirements
